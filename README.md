@@ -14,11 +14,12 @@ Skills
      height="50" ><a>
 <a href="https://nodejs.org/en"><img alt="Nodejs" src="https://cdn.discordapp.com/attachments/1098331063064993906/1098939229024817152/png-transparent-js-logo-node-logos-and-brands-icon-removebg-preview.png" width="50" 
      height="50" ><a>
-<a href="https://nodejs.org/en"><img alt="HTML" src="https://cdn.discordapp.com/attachments/1098331063064993906/1098940242452549732/html-5-icon-removebg-preview.png" width="50" 
+<a href=""><img alt="HTML" src="https://cdn.discordapp.com/attachments/1098331063064993906/1098940242452549732/html-5-icon-removebg-preview.png" width="50" 
      height="50" ><a>
-<a href="https://nodejs.org/en"><img alt="CSS" src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="50" 
+<a href=""><img alt="CSS" src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="50" 
      height="50" ><a>
-
+<a href=""><img alt="MYSQL" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="50" 
+     height="50" ><a>
      
      
      
