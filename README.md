@@ -16,3 +16,9 @@ Skills
      height="50" ><a>
 <a href="https://nodejs.org/en"><img alt="HTML" src="https://cdn.discordapp.com/attachments/1098331063064993906/1098940242452549732/html-5-icon-removebg-preview.png" width="50" 
      height="50" ><a>
+<a href="https://nodejs.org/en"><img alt="CSS" src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="50" 
+     height="50" ><a>
+
+     
+     
+     
