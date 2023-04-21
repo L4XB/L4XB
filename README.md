@@ -10,5 +10,5 @@ Skills
 <br>
 <a href="https://dart.dev/"><img alt="DartLogo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" width="50" 
      height="50" ><a>
-<a href="https://flutter.dev/"><img alt="FlutterLogo" src="https://discord.com/channels/1098331063064993903/1098331063064993906/1098937417924350064" width="50" 
+<a href="https://flutter.dev/"><img alt="FlutterLogo" src="https://w7.pngwing.com/pngs/168/443/png-transparent-flutter-logo-flutter-software-logo-social-media-logo-logo-technology-logo-3d-icon-thumbnail.png" width="50" 
      height="50" ><a>
