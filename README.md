@@ -21,6 +21,7 @@ Skills
      height="50" ><a>
 <a href=""><img alt="MYSQL" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="50" 
      height="50" ><a>
-     
+<a href=""><img alt="Js" src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text-thumbnail.png" width="50" 
+     height="50" ><a>
      
      
