@@ -8,4 +8,4 @@ Full-Stack-App-Developer
 <br>
 Skills
 <br>
-Dart Swift Typescript PHP HTML5 Material UI CSS3 Firebase MySQL
+<img alt="DartLogo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800">
