@@ -12,3 +12,5 @@ Skills
      height="50" ><a>
 <a href="https://flutter.dev/"><img alt="Swift" src="https://cdn.discordapp.com/attachments/1098331063064993906/1098937417752395806/355-3557482_flutter-logo-png-transparent-png-removebg-preview.png" width="50" 
      height="50" ><a>
+<a href="https://flutter.dev/"><img alt="Nodejs" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="50" 
+     height="50" ><a>
