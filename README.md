@@ -1,5 +1,6 @@
-Hi 👋 My name is Lukas Buck
-Full-Stack-App-Developer
+Hi 👋 <br>
+My name is Lukas Buck<br>
+18 yo Full-Stack-App-Developer
 
 🌍 I'm based in Germany<br>
 ✉️ You can contact me at lukas.Buck@e-mail.de <br>
