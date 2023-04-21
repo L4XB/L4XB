@@ -14,3 +14,5 @@ Skills
      height="50" ><a>
 <a href="https://nodejs.org/en"><img alt="Nodejs" src="https://cdn.discordapp.com/attachments/1098331063064993906/1098939229024817152/png-transparent-js-logo-node-logos-and-brands-icon-removebg-preview.png" width="50" 
      height="50" ><a>
+<a href="https://nodejs.org/en"><img alt="HTML" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="50" 
+     height="50" ><a>
