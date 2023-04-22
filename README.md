@@ -1,6 +1,6 @@
-Hi 👋 <br>
+<h1>Hi 👋 <br>
 My name is Lukas Buck<br>
-18 yo Flutter Developer
+18 yo Flutter Developer<h1>
 
 * 🌍 I'm based in Germany<br>
 * ✉️ You can contact me at lukas.Buck@e-mail.de <br>
