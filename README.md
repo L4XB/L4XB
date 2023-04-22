@@ -25,7 +25,9 @@ My name is Lukas Buck<br>
 <a href=""><img alt="Js" src="https://cdn.discordapp.com/attachments/1098331063064993906/1098992569305796638/png-clipart-javascript-open-logo-number-js-angle-text-thumbnail-removebg-preview.png" width="50" 
      height="50" ><a><br><br>
      <h2>Socials<br></h2>
-<a href="https://www.linkedin.com/in/lukas-buck-664384237/"><img alt="DartLogo" src="https://cdn.discordapp.com/attachments/1098331063064993906/1099225791381905429/Linkedin-logo-on-transparent-Background-PNG--removebg-preview_1.png" width="50" 
+<a href="https://www.linkedin.com/in/lukas-buck-664384237/"><img alt="LinkedIn" src="https://cdn.discordapp.com/attachments/1098331063064993906/1099225791381905429/Linkedin-logo-on-transparent-Background-PNG--removebg-preview_1.png" width="50" 
+     height="50" ><a>
+<a href="https://twitter.com/Lukas_Buck1"><img alt="Twitter" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="50" 
      height="50" ><a>
      
-     
+   
