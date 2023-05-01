@@ -1,6 +1,6 @@
 <h1>Hi 👋 <br>
 My name is Lukas Buck<br>
-18 yo Flutter Developer</h1>
+18 yo App Developer</h1>
 
 <h2> Informations <br> </h2>
 * 🌍 I'm based in Germany<br>
