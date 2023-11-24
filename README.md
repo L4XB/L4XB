@@ -12,6 +12,8 @@ My name is Lukas Buck<br>
 <br>
 <a href="https://dart.dev/"><img alt="DartLogo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" width="50" 
      height="50" ><a>
+<a href="https://dart.dev/"><img alt="Kotlin Logo" src="https://w7.pngwing.com/pngs/314/161/png-transparent-kotlin-android-software-development-anonymous-function-programming-language-android-blue-angle-text-thumbnail.png" width="50" 
+     height="50" ><a>
 <a href="https://flutter.dev/"><img alt="Swift" src="https://cdn.discordapp.com/attachments/1098331063064993906/1098937417752395806/355-3557482_flutter-logo-png-transparent-png-removebg-preview.png" width="50" 
      height="50" ><a>
 <br><br>
