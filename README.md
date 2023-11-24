@@ -14,7 +14,7 @@ My name is Lukas Buck<br>
      height="50" ><a>
 <a href="https://flutter.dev/"><img alt="Flutter" src="https://cdn.discordapp.com/attachments/1098331063064993906/1098937417752395806/355-3557482_flutter-logo-png-transparent-png-removebg-preview.png" width="50" 
      height="50" ><a>
-<a href="#"><img alt="Kotlin" src="https://media.forgecdn.net/avatars/181/492/636800855682272538.png" width="50" 
+<a href="#"><img alt="Kotlin" src="https://blog.scottlogic.com/jporter/assets/kotlin-logo.png" width="50" 
      height="50" ><a>
 <br>
      <h2>Socials<br></h2>
