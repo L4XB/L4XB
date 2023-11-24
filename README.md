@@ -14,7 +14,6 @@ My name is Lukas Buck<br>
      height="50" ><a>
 <a href="https://flutter.dev/"><img alt="Swift" src="https://cdn.discordapp.com/attachments/1098331063064993906/1098937417752395806/355-3557482_flutter-logo-png-transparent-png-removebg-preview.png" width="50" 
      height="50" ><a>
-
 <br><br>
      <h2>Socials<br></h2>
 <a href="https://www.linkedin.com/in/lukas-buck-664384237/"><img alt="LinkedIn" src="https://cdn.discordapp.com/attachments/1098331063064993906/1099225791381905429/Linkedin-logo-on-transparent-Background-PNG--removebg-preview_1.png" width="50" 
