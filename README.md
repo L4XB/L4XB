@@ -12,7 +12,9 @@ My name is Lukas Buck<br>
 
 <a href="https://dart.dev/"><img alt="DartLogo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" width="50" 
      height="50" ><a>
-<a href="https://flutter.dev/"><img alt="Swift" src="https://cdn.discordapp.com/attachments/1098331063064993906/1098937417752395806/355-3557482_flutter-logo-png-transparent-png-removebg-preview.png" width="50" 
+<a href="https://flutter.dev/"><img alt="Flutter" src="https://cdn.discordapp.com/attachments/1098331063064993906/1098937417752395806/355-3557482_flutter-logo-png-transparent-png-removebg-preview.png" width="50" 
+     height="50" ><a>
+<a href="#"><img alt="Kotlin" src="https://discord.com/channels/1098331063064993903/1098331063064993906/1177702824843423754" width="50" 
      height="50" ><a>
 <br>
      <h2>Socials<br></h2>
