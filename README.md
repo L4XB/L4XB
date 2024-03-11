@@ -18,7 +18,7 @@ My name is Lukas Buck<br>
      height="50" ><a>
 <br>
      <h2>Socials<br></h2>
-<a href="https://www.linkedin.com/in/lukas-buck-664384237/"><img alt="LinkedIn" src="https://c0.klipartz.com/pngpicture/225/228/gratis-png-linkedin-thumbnail.png" width="50" 
+<a href="https://www.linkedin.com/in/lukas-buck-664384237/"><img alt="LinkedIn" src="https://pngimg.com/d/linkedIn_PNG39.png" width="50" 
      height="50" ><a>
 <a href="https://twitter.com/Lukas_Buck1"><img alt="Twitter" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="50" 
      height="50" ><a>
