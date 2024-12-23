@@ -16,11 +16,16 @@ My name is Lukas Buck<br>
      height="50" ><a>
 <a href="#"><img alt="Kotlin" src="https://blog.scottlogic.com/jporter/assets/kotlin-logo.png" width="50" 
      height="50" ><a>
+<a href="#"><img alt="PyTorch" src=" https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" width="50" 
+     height="50" ><a>
 <br>
      <h2>Socials<br></h2>
 <a href="https://www.linkedin.com/in/lukas-buck-664384237/"><img alt="LinkedIn" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" width="50" 
      height="50" ><a>
 <a href="https://twitter.com/Lukas_Buck1"><img alt="Twitter" src="https://static-00.iconduck.com/assets.00/twitter-emoji-1024x843-eywjcn1d.png" width="65" 
      height="50" ><a>
-     
+
+
+
+    
    
