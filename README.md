@@ -16,7 +16,7 @@ My name is Lukas Buck<br>
      height="50" ><a>
 <a href="#"><img alt="Kotlin" src="https://blog.scottlogic.com/jporter/assets/kotlin-logo.png" width="50" 
      height="50" ><a>
-<a href="#"><img alt="PyTorch" src=" https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" width="50" 
+<a href="#"><img alt="PyTorch" src="https://github.com/user-attachments/assets/1dd0f211-49a3-4af8-8d9e-08e1aa57f0db" width="50" 
      height="50" ><a>
 <br>
      <h2>Socials<br></h2>
