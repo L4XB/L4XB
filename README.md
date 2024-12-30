@@ -9,7 +9,6 @@ My name is Lukas Buck<br>
 * 🤝 I'm open to collaborating on innovative projects<br>
 <br>
 
-
 <h2>Skills</h2>
 
 <a href="https://dart.dev/"><img alt="DartLogo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" width="50" 
