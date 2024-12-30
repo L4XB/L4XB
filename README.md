@@ -14,8 +14,6 @@ My name is Lukas Buck<br>
      height="50" ><a>
 <a href="https://flutter.dev/"><img alt="Flutter" src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-3628777-3030139.png" width="50" 
      height="50" ><a>
-<a href="#"><img alt="Kotlin" src="https://blog.scottlogic.com/jporter/assets/kotlin-logo.png" width="50" 
-     height="50" ><a>
 <a href="#"><img alt="PyTorch" src="https://github.com/user-attachments/assets/1dd0f211-49a3-4af8-8d9e-08e1aa57f0db" width="50" 
      height="50" ><a>
 <br>
