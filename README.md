@@ -8,6 +8,11 @@ My name is Lukas Buck<br>
 * 🧠 I'm learning Spring Boot right now<br>
 * 🤝 I'm open to collaborating on innovative projects<br>
 <br>
+<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=L4XB&theme=radical)
+<br>
+
+
 <h2>Skills</h2>
 
 <a href="https://dart.dev/"><img alt="DartLogo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" width="50" 
