@@ -8,9 +8,6 @@ My name is Lukas Buck<br>
 * 🧠 I'm learning Spring Boot right now<br>
 * 🤝 I'm open to collaborating on innovative projects<br>
 <br>
-<br>
-<image src="https://github-readme-streak-stats.herokuapp.com/?user=L4XB&theme=radical"></image>
-<br>
 
 
 <h2>Skills</h2>
@@ -28,7 +25,7 @@ My name is Lukas Buck<br>
 <a href="https://twitter.com/Lukas_Buck1"><img alt="Twitter" src="https://static-00.iconduck.com/assets.00/twitter-emoji-1024x843-eywjcn1d.png" width="65" 
      height="50" ><a>
 
+<br>  
+<h2>GitHub stats</h2>
 
-
-    
-   
+<image src="https://github-readme-streak-stats.herokuapp.com/?user=L4XB&theme=radical"></image>
