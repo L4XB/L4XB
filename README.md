@@ -9,7 +9,7 @@ My name is Lukas Buck<br>
 * 🤝 I'm open to collaborating on innovative projects<br>
 <br>
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=L4XB&theme=radical)
+<image src="https://github-readme-streak-stats.herokuapp.com/?user=L4XB&theme=radical"></image>
 <br>
 
 
