@@ -1,6 +1,6 @@
 <h1>Hi 👋 <br>
 My name is Lukas Buck<br>
-20 yo Developer & computer-science Student</h1>
+20 yo Developer & Business Informatics Student</h1>
 <br>
 <h2> Informations <br> </h2>
 * 🌍 I'm based in Germany<br>
