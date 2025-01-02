@@ -5,8 +5,7 @@ My name is Lukas Buck<br>
 <h2> Informations <br> </h2>
 * 🌍 I'm based in Germany<br>
 * ✉️ You can contact me at contact@lukasbuck.com <br>
-* 🧠 I'm learning Spring Boot right now<br>
-* 🤝 I'm open to collaborating on innovative projects<br>
+* 🧠 I'm learning Terraform right now<br>
 <br>
 
 <h2>Skills</h2>
