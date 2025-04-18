@@ -40,8 +40,6 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=L4XB&theme=holi-theme&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800)](https://git.io/streak-stats)
 
-[![Stellar Activity](https://github-readme-activity-graph.vercel.app/graph?username=L4XB&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Code%20Nebula%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
