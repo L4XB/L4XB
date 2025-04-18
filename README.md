@@ -38,8 +38,8 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasbuck&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Lukas's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasbuck&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L4XB&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Lukas's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4XB&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
   </a>
 </p>
 
