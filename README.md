@@ -1,66 +1,96 @@
-<h1 align="center">🚀 Lukas Buck</h1>
-<h3 align="center">20 y/o Developer | Business Informatics Student | Tech Enthusiast</h3>
+<div align="center">
+  
+![Cosmic Banner](https://github.com/L4XB/L4XB/blob/main/assets/header.png?raw=true)
 
+# 🪐 **Lukas Buck** - _Digital Cosmonaut_
+### 🌌 **Business Informatics** | **Flutter** | **AI Engineering**
+
+[![Visitors](https://komarev.com/ghpvc/?username=lukasbuck&label=Intergalactic+Visitors&color=0b0d17&style=flat-square)](https://github.com/lukasbuck)
+[![NASA API](https://img.shields.io/badge/Powered%20By-NASA%20APOD-0b3d91?style=flat-square&logo=nasa)](https://api.nasa.gov/)
+[![Matrix](https://img.shields.io/badge/Reality%20Version-Matrix%20v4.0-00ff00?style=flat-square)](https://)
+
+</div>
+
+---
+
+## 🔥 **Tech Supernova**
+
+<!-- Planetary Tech Stack -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Flutter+%7C+AI+%7C+Cloud+Solutions;Always+learning+something+new" alt="Typing SVG" /></a>
-</p>
-
----
-
-### 🧑💻 **About Me**
-
-- 🌍 Based in **Germany** 
-- 🎓 Studying **Business Informatics**
-- 🚀 Currently exploring **Go & Cloud Native Tech**
-- 📫 Reach me: **contact@lukasbuck.com**
-- ⚡ Fun fact: **I automate everything I can!**
-
----
-
-### 🛠 **Tech Stack**
-
-#### Languages & Frameworks
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-#### Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
----
-
-### 📈 **GitHub Stats**
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L4XB&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Lukas's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4XB&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="75" height="75" style="filter: drop-shadow(0 0 10px #02569B)"/>
+  </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Golang" width="110" height="110" style="filter: drop-shadow(0 0 15px #00ADD8)"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="75" height="75" style="filter: drop-shadow(0 0 10px #EE4C2C)"/>
   </a>
 </p>
 
+
+<!-- Interactive Grid -->
+<div align="center">
+  <a href="https://app.daily.dev/lukasbuck">
+    <img src="https://api.daily.dev/devcards/...png?r=sqg" width="400" alt="Lukas Buck's Dev Card" align="right"/>
+  </a>
+</div>
+
+```python
+class DigitalCosmonaut:
+    def __init__(self):
+        self.name = "Lukas Buck"
+        self.age = "20 Light-Years Young"
+        self.mission = "Colonize the Digital Universe"
+        self.arsenal = ["Flutter", "AI", "Cloud", "Quantum Code"]
+        self.location = {"galaxy": "Milky Way", "planet": "Earth", "coordinates": [51.1657, 10.4515]}
+    
+    def warp_speed(self):
+        while True:
+            self.learn()
+            self.build()
+            self.innovate()
+```
+
+
+
 ---
 
-### 🌐 **Connect With Me**
+## 🛸 **Mission Control**
 
+<!-- Star Chart Stats -->
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=L4XB&theme=holi-theme&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800)](https://git.io/streak-stats)
+
+[![Stellar Activity](https://github-readme-activity-graph.vercel.app/graph?username=L4XB&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Code%20Nebula%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌠 **Wormhole Connections**
+
+<!-- Alien Communication Protocol -->
 <p align="center">
+  <a href="https://matrix.to/#/@lukas:lukasbuck.com">
+    <img src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" alt="Matrix"/>
+  </a>
+  <a href="https://t.me/lukasbuck">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.youtube.com/channel/...">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+<!-- Quantum Entanglement Links -->
+<div align="center">
   <a href="https://www.linkedin.com/in/lukas-buck-664384237/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="75" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Lukas_Buck1">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:contact@lukasbuck.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=L4XB&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
+
+
+
