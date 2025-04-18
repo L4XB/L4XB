@@ -47,7 +47,7 @@
 
 ### 🌐 **Connect With Me**
 
-<p align="">
+<p align="center">
   <a href="https://www.linkedin.com/in/lukas-buck-664384237/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lukasbuck&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=L4XB&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
