@@ -7,7 +7,7 @@
 
 ---
 
-### 🧑💻 **About Me**
+### 🧑 **About Me**
 
 - 🌍 Based in **Germany** 
 - 🎓 Studying **Business Informatics**
