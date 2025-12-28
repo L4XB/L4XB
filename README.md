@@ -6,7 +6,7 @@
 </p>
 
 ---
- 
+  
 ### 🧑 **About Me**
 
 - 🌍 Based in **Germany** 
