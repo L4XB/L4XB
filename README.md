@@ -35,16 +35,6 @@
 
 ---
 
-### 📈 **GitHub Stats**
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=L4XB&theme=holi-theme&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### 🌐 **Connect With Me**
 
 <p align="center">
