@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Lukas Buck</h1>
-<h3 align="center">20 y/o Developer | Business Informatics Student | Tech Enthusiast</h3>
+<h3 align="center">21 y/o Developer | Business Informatics Student | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Flutter+%7C+AI+%7C+Cloud+Solutions;Always+learning+something+new" alt="Typing SVG" /></a>
