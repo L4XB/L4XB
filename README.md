@@ -1,51 +1,55 @@
-<h1 align="center">🚀 Lukas Buck</h1>
-<h3 align="center">21 y/o Developer | Business Informatics Student | Tech Enthusiast</h3>
+<h1 align="center">Lukas Buck</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Flutter+%7C+AI+%7C+Cloud+Solutions;Always+learning+something+new" alt="Typing SVG" /></a>
+  <em>AI Enthusiast · Business Informatics Student · Flutter lover</em>
 </p>
-
----
-  
-### 🧑 **About Me**
-
-- 🌍 Based in **Germany** 
-- 🎓 Studying **Business Informatics**
-- 🚀 Currently exploring **Go & Cloud Native Tech**
-- 📫 Reach me: **contact@lukasbuck.com**
-- ⚡ Fun fact: **I automate everything I can!**
-
----
-
-### 🛠 **Tech Stack**
-
-#### Languages & Frameworks
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-#### Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![n8n](https://img.shields.io/badge/n8n-FF5F5F.svg?style=for-the-badge&logo=n8n&logoColor=white&color=FF5F5F)
-
----
-
-### 🌐 **Connect With Me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lukas-buck-664384237/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/Lukas_Buck1">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+ <a href="https://www.researchgate.net/profile/Lukas-Buck">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white"/>
   </a>
-  <a href="mailto:contact@lukasbuck.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:Lukas.Buck@Student.Reutlingen-University.de">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
+
+### About Me
+
+I'm studying Business Informatics in Germany and spend most of my time building and researching things at the intersection of large language models and real-world engineering — and occasionally breaking them to see what happens. Also: automating everything, writing papers nobody asked for, and so much more.
+
+---
+
+### Currently
+
+- 🎓 M.Sc. Business Informatics @ Reutlingen University
+- 🔬 Researching prompt injection, LLM security & agentic system robustness
+- 🚀 Exploring Go & Cloud Native
+
+---
+
+### Tech Stack
+
+#### AI & LLMs
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+`Transformers` · `RAG` · `Vector Databases` · `MCP` · `vLLM` · `Multi-Agent Orchestration` · `Prompt Injection` · `Coding Agents`
+
+#### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+#### Languages
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
