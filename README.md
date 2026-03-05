@@ -54,6 +54,3 @@ I'm studying Business Informatics in Germany and spend most of my time building 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 
-<a href="https://www.thegitcity.com/dev/L4XB">
-<img src="https://www.thegitcity.com/dev/L4XB/opengraph-image" width="600" alt="Lukas Buck - Git City"/>
-</a>
