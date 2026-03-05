@@ -52,3 +52,8 @@ I'm studying Business Informatics in Germany and spend most of my time building 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+
+<a href="https://www.thegitcity.com/dev/L4XB">
+<img src="https://www.thegitcity.com/dev/L4XB/opengraph-image" width="600" alt="Lukas Buck - Git City"/>
+</a>
