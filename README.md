@@ -54,3 +54,5 @@ I'm studying Business Informatics in Germany and spend most of my time building 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 
+
+
