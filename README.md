@@ -27,7 +27,7 @@ I'm studying Business Informatics in Germany and spend most of my time building 
 
 ### Currently
 
-- 🎓 M.Sc. Business Informatics @ Reutlingen University
+- 🎓 M.Sc. Student & Academic Assistant @ Reutlingen University
 - 🔬 Researching prompt injection, LLM security & agentic system robustness
 - 🚀 Exploring Go & Cloud Native
 
