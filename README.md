@@ -56,5 +56,3 @@ I'm studying Business Informatics in Germany and spend most of my time building 
 
 
 
-
-
