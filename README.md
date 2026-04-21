@@ -1,11 +1,6 @@
 <h1 align="center">Lukas Buck</h1>
 
 <p align="center">
-  <em>AI Enthusiast · Business Informatics Student · Flutter lover</em>
-</p>
-
-
-<p align="center">
   <a href="https://www.linkedin.com/in/lukas-buck-664384237/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
