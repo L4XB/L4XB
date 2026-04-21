@@ -12,8 +12,6 @@
   </a>
 </p>
 
----
-
 ### About Me
 
 I'm studying Business Informatics in Germany and spend most of my time building and researching things at the intersection of large language models and real-world engineering — and occasionally breaking them to see what happens. Also: automating everything, writing papers nobody asked for, and so much more.
