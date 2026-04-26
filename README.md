@@ -47,5 +47,3 @@ I'm studying Business Informatics in Germany and spend most of my time building 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-
-
