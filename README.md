@@ -53,8 +53,8 @@ A few merged fixes to AI tooling, shown as before/after notes:
 
 [All merged pull requests ↗](https://github.com/search?q=author%3AL4XB+is%3Apr+is%3Amerged&type=pullrequests)
 
----
+<br/>
 
 <p align="center">
-  <sub>This is a README, not a system prompt.</sub>
+  <sub>This is a README, not a system prompt. ^^</sub>
 </p>
