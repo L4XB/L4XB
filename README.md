@@ -13,45 +13,9 @@
   <a href="mailto:Lukas.Buck@Student.Reutlingen-University.de"><img src="assets/lab-notes/contact-email.svg" height="31" alt="Email" /></a>
 </p>
 
-I'm a master's student and academic assistant at **Reutlingen University**, focused on applied AI. My bachelor's thesis was on **prompt injection**. I haven't quite left that rabbit hole.
-
 <br/>
 
-## <img src="assets/lab-notes/branch.svg" width="24" height="24" alt="" /> 01 / on my desk
-
-I'm building **[SixSentences ↗](https://sixsentences.com/)** solo. It covers paper screening, AI-led voice interviews and surveys, analysis, and LaTeX writing. I also fine-tune the transformer encoders used for screening.
-
-At university, I teach programming and practical sessions on **AI-assisted development with coding agents**.
-
-<br/>
-
-## <img src="assets/lab-notes/research.svg" width="24" height="24" alt="" /> 02 / research notes
-
-> **Can LLMs Chain Bugs into Breaches?**  
-> Attack Path Discovery in Terraform.  
-> <sub>IEEE ICSME 2026 · Visions and Emerging Results · Accepted, to appear.</sub>
-
-I'm also investigating hallucinated Terraform resources, brittle evaluation oracles, and the security of LLM-generated infrastructure.
-
-<details>
-<summary>Open the research notebook</summary>
-
-<br/>
-
-**Manuscript in preparation**  
-*Hallucinated Resources, Brittle Oracles, Decoupled Security: An Empirical Study of LLM-Generated Terraform.*
-
-**Ongoing collaboration**  
-Security evaluation of LLM-generated Terraform with J. Höll and W. Blochinger at Reutlingen University.
-
-**B.Sc. thesis**  
-*Prompt Injection Attacks on Transformer-Based Language Models.*
-
-</details>
-
-<br/>
-
-## <img src="assets/lab-notes/merge.svg" width="24" height="24" alt="" /> 03 / patch log
+## <img src="assets/lab-notes/merge.svg" width="24" height="24" alt="" /> 01 / patch log
 
 A few merged fixes to AI tooling, shown as before/after notes:
 
