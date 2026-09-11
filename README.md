@@ -15,7 +15,7 @@
 
 <br/>
 
-## <img src="assets/lab-notes/merge.svg" width="24" height="24" alt="" /> 01 / patch log
+## <img src="assets/lab-notes/merge.svg" width="24" height="24" alt="" /> / patch log
 
 A few merged fixes to AI tooling, shown as before/after notes:
 
@@ -39,22 +39,6 @@ A few merged fixes to AI tooling, shown as before/after notes:
 - Exporter failures could deadlock logging.
 + Use a re-entrant lock.
 ```
-
-<details>
-<summary>More merged fixes</summary>
-
-<br/>
-
-| Project | Patch |
-| :--- | :--- |
-| **Graphify** | [Make SQL indexes visible in the knowledge graph. ↗](https://github.com/Graphify-Labs/graphify/pull/3470) |
-| **OpenSandbox** | [Recognise Podman when resolving a container's host IP. ↗](https://github.com/opensandbox-group/OpenSandbox/pull/1806) |
-| **fastmcp · TypeScript** | [Keep the tools capability when access rules hide every tool. ↗](https://github.com/punkpeye/fastmcp/pull/371) |
-| **PI-Desktop** | [Deliver delegate-agent reports that arrive before the parent goes idle. ↗](https://github.com/vastsa/PI-Desktop/pull/228) |
-| **MemPalace** | [Keep a busy daemon registered instead of starting a duplicate. ↗](https://github.com/MemPalace/mempalace/pull/2473) |
-| **AstrBot** | [Space out queued requests instead of releasing them all at once. ↗](https://github.com/AstrBotDevs/AstrBot/pull/10015) |
-
-</details>
 
 <br/>
 
