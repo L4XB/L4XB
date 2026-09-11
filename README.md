@@ -15,7 +15,7 @@
 
 <br/>
 
-## <img src="assets/lab-notes/merge.svg" width="24" height="24" alt="" /> / patch log
+## <img src="assets/lab-notes/merge.svg" width="24" height="24" alt="" /> patch log
 
 A few merged fixes to AI tooling, shown as before/after notes:
 
