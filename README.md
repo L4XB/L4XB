@@ -13,6 +13,15 @@
   <a href="mailto:Lukas.Buck@Student.Reutlingen-University.de"><img src="assets/lab-notes/contact-email.svg" height="31" alt="Email" /></a>
 </p>
 
+
+<br/>
+
+## <img src="assets/lab-notes/research.svg" width="24" height="24" alt="" /> current research updates
+
+> **Can LLMs Chain Bugs into Breaches?**  
+> Attack Path Discovery in Terraform.  
+> <sub>IEEE ICSME 2026 · Visions and Emerging Results · Accepted, to appear.</sub>
+
 <br/>
 
 ## <img src="assets/lab-notes/merge.svg" width="24" height="24" alt="" /> patch log
